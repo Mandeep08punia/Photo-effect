@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './App.css';
 import Slider from './components/Slider'
-import SidebarItem from './components/SiderbarItem'
+import SidebarItem from './components/SidebarItem'
 
 const DEFAULT_OPTIONS = [
   {

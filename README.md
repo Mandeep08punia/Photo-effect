@@ -1,5 +1,5 @@
 Photo-Effect <br />
-✅Hosted Link:- 
+ 
 
 
 ![alt text](./Screenshot.png)
